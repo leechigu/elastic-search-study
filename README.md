@@ -8,6 +8,15 @@
 데이터 저장은 역 index구조로 cluseter형식으로 저장이 되어 search를 하게 되면 HashTable처럼 O(1)의 속도로 빠르게 접근을 할 수 있습니다.<br>
 데이터들은 Cluster > Node > Shard 단위로 저장이 된다.<br>
 
+<br><h2>Cluster</h2><br>
+
+<br><h2>Node</h2><br>
+
+<br><h2>Shard</h2><br>
+
+
+
+
 
 <h2>Filter</h2>
 1. lowercase : 대문자를 소문자로 변환 ex. Castle -> castle<br>
